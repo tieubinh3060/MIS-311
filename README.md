@@ -19,6 +19,8 @@ The dataset includes records of student performance, along with demographic info
 - `average_score`: Average of the three subject scores.
 
 ## Key Insights
+<img width="641" height="509" alt="Screenshot 2025-07-24 143350" src="https://github.com/user-attachments/assets/c8495b0c-eaf3-464d-a9c6-c82742681603" />
+Figure 1: Distribution of Student Scores in Math, Reading, Writing, and Overall Average
 - **Math Score**:
   - Median and mode are both 65, indicating symmetry in the central tendency.
   - The distribution is negatively skewed (-0.397), with a standard deviation of 15.98—higher than that of reading and writing.
